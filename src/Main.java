@@ -1,3 +1,4 @@
+import Encoder.Encoder;
 import java.util.Scanner;
 
 public class Main {

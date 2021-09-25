@@ -1,3 +1,5 @@
+package Encoder;
+
 import java.util.HashMap;
 
 public class Reflector {
